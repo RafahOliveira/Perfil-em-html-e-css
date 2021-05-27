@@ -1,0 +1,108 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fundo
+{
+    position: -ms-page;
+    height: 1000px;
+    max-width: 900px;
+    background: rgb(164, 88, 184);
+    align-items: center;
+    margin: 0 auto;
+}
+
+.lineUp
+{
+    position: relative;
+    height: 45px;
+    max-width: 900px;
+    background-color: rgb(63, 9, 107);
+    top: 7%;
+}
+
+.lineDown
+{
+    position: relative;
+    overflow: right;
+    height: 45px;
+    max-width: 800px;
+    background-color: rgb(63, 9, 107);
+    top: 90%;
+    left: 50px;
+    border-radius: 20px;
+}
+
+.sobreEu
+{
+    border: 0px;
+    margin: 0px;
+    position: relative;   
+    text-align: center;
+    font-size: 26px;
+    top: -70px;
+    text-shadow: 1px -3px 0px lightseagreen;
+}
+
+.linkE
+{
+    color: lightseagreen;
+    position: relative;
+    border: 0px;
+    margin: 0px 50px 0px 0px;
+    display: inline-block;
+    align-items: center;
+    top: -38px;
+    right: -14%;
+    text-decoration-style: solid;
+    font-size: 13px;
+}
+
+.linkB
+{
+    position: relative;
+    color: lightseagreen;
+    bottom: -536px;
+    left: -85px;
+    margin: 0px 20px 0px 0px;
+    display: inline-block;
+    font-size: 13px;
+}
+
+.euzin
+{
+    position: relative;
+    top: -10px;
+    right: -30%;
+    margin: 0px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    font-size: 13px;
+    box-shadow: 3px -2px 0px lightseagreen
+}
+
+.escrito
+{
+    margin: 12px;
+    position: relative;
+    color: rgb(12, 12, 12);
+    top: 45px;
+    font-size: 10px;
+}
+
+.pontos
+{
+    color: #000000;
+    position: relative;
+    top: 107px;
+    left: 70px;
+}
+
+h1
+{
+    font-size: 24px;
+}
